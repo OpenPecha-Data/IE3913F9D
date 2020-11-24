@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN7871
   title: དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་རྒྱ་ཆེར་འགྲེལ་པ།
-  volume: ''
+  volume:
+    3234a71d95d140ebaa0c3dd38a84f65b:
+      image_group_id: I3CN7873
+      title: Volume 1 of dam pa'i chos mngon pa kun las btus pa'i rgya cher 'grel
+        ba legs bshad rgya mtsho/
+      volume_number: 1
+      total_pages: 664
   author: ''
+ebook_metadata:
+  title: དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་རྒྱ་ཆེར་འགྲེལ་པ།
+  author: ''
+  sku: P000454
+  cover: cover.jpg
+  layers:
+  - pagination

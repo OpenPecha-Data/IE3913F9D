@@ -1,5 +1,7 @@
 id: P000454
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W3CN7871
   title: དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་རྒྱ་ཆེར་འགྲེལ་པ།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 664
       base_file: v001.txt
-ebook_metadata:
-  title: དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་རྒྱ་ཆེར་འགྲེལ་པ།
-  author: ''
-  sku: P000454
-  cover: cover.jpg
-  layers:
-  - pagination
